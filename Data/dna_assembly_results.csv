@@ -1,0 +1,8 @@
+n_fragments,edges,greedy_time_ms,greedy_overlap,nn_time_ms,nn_overlap,savings_time_ms,savings_overlap
+10,13,0,44,0,62,0,47
+15,20,0,58,0,84,0,56
+20,43,0,123,0,134,0,104
+25,54,0,126,0,146,0,175
+30,62,0,216,0,223,0,189
+35,98,0,290,0,304,0,220
+40,122,0,375,0,375,0,332
